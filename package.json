@@ -1,18 +1,18 @@
 {
-  "name": "jslessons",
+  "name": "dz_json",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Olbili.github.io/назва вашого репо",
+  "homepage": "https://Olbili.github.io/dz_json",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ваш репо/"
+    "build": "parcel build src/*.html --public-url /dz_json/"
   },
   "repository": {
     "type": "git",
-    "url": "git+посилання на ваш репозиторій.git"
+    "url": "git+https://github.com/Olbili/dz_json.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Olbili",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
