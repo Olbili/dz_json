@@ -8,7 +8,7 @@ const text = document.querySelector(".text");
 
 console.log('text :>> ', text);
 
-form.addEventListener("submit", onSubmit);
+// form.addEventListener("submit", onSubmit);
 
 console.log('form :>> ', form);
 
